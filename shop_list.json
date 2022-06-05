@@ -1,0 +1,30 @@
+[
+  {
+    "title": "Iphone10",
+    "category": "electronics",
+    "quantity": "2",
+    "price": "100",
+    "surname": "Kruts"
+  },
+  {
+    "title": "cocktail dress",
+    "category": "clothes",
+    "quantity": "1",
+    "price": "10",
+    "surname": "Tymenko"
+  },
+  {
+    "title": "apple",
+    "category": "friut",
+    "quantity": "20",
+    "price": "2",
+    "surname": "Ovcharenko"
+  },
+  {
+    "title": "still water",
+    "category": "drinks",
+    "quantity": "5",
+    "price": "2",
+    "surname": "Sviridenko"
+  }
+]
